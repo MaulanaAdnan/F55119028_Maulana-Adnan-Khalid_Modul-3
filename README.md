@@ -1,2 +1,2 @@
 # Hasil Tampilan Aplikasi Fragment Layout
-![Hasil](https://user-images.githubusercontent.com/93413795/162871322-6201f563-4dc6-4132-a93a-14bb67042841.png)
+![Hasil](https://user-images.githubusercontent.com/93413795/162871419-896752c2-96c2-497c-bcdc-88ab8a79057f.png)
